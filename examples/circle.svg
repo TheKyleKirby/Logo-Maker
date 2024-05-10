@@ -1,0 +1,4 @@
+<svg height="200" width="300" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="155" cy="100" r="97" stroke="black" stroke-width="3" fill="orange" />
+    <text x='90' y='125' font-family='cursive' font-size='60' fill="white">HIM</text>
+  </svg>
